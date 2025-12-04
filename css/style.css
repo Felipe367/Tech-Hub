@@ -3,6 +3,8 @@ body {
     font-family: Arial, sans-serif;
     
      background-image:url(/プリズムライトの写真素材｜写真素材なら「写真AC」無料（フリー）ダウンロードOK.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
 }
 nav{
     background-color: #040a55;
