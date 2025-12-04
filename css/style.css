@@ -2,10 +2,11 @@
 body {
     font-family: Arial, sans-serif;
     
-     background-image:url(/123321.jpg);
+     background-image:url(/プリズムライトの写真素材｜写真素材なら「写真AC」無料（フリー）ダウンロードOK.jpg);
 }
 nav{
-    background-color: #3993AA;
+    background-color: #040a55;
+    border-radius: 5px;
 }
 nav li {
   display: inline-block; 
@@ -13,21 +14,43 @@ nav li {
 }
 nav li a {
   text-decoration: none; 
-  color: #394f55;; 
+  color: #ffffff;; 
   padding: 14px 20px;
   display: block; 
   text-align: center;
+  align-items: center;
   text-decoration: none;
+  font-family: unset;
+  border-radius: 5px;
 }
 
 
 nav a:hover {
-  
-  color: #000000; 
+  background-color: #ffffff;
+  color: #040a55; 
+  border-radius: 5px;
 }
 /* contato.html */
-.a{
+div{
   text-align: center;
+  margin-top: 50px;
+
+}
+
+.a{
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #040a55;
+
+}
+
+footer {
+  background: #040a55;
+  color: #ffffff;
+  padding: 15px;
+  margin-top: 40px;
+  text-align: center;
+  border-radius: 5px;
 }
 
 
