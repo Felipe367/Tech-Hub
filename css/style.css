@@ -1,28 +1,19 @@
+
 body {
     font-family: Arial, sans-serif;
-    background-color: antiquewhite;
+    
+     background-image:url(/123321.jpg);
 }
 nav{
-    background-color: #000000;
+    background-color: #3993AA;
 }
-
-nav ul {
-  list-style: none; 
-  margin: 0;
-  padding: 0;
-}
-
-
-
-nav ul li {
+nav li {
   display: inline-block; 
   
 }
-
-
-nav ul li a {
+nav li a {
   text-decoration: none; 
-  color: #ffffff; 
+  color: #394f55;; 
   padding: 14px 20px;
   display: block; 
   text-align: center;
@@ -31,36 +22,13 @@ nav ul li a {
 
 
 nav a:hover {
-  background-color: #ffffff;
+  
   color: #000000; 
 }
 /* contato.html */
-.formulario-campo{
-   display: flex;
-   flex: 1;
-   gap: 16px;
-   width: 70%;
-   justify-content: space-between;
-   margin-bottom: 8px;
-   align-items: center;
-
-}
-.formulario-campo label{
-  font-family: "Inter", sans-serif;
-  font-weight: 400;
+.a{
+  text-align: center;
 }
 
-.formulario-campo input, 
-.formulario-campo select,
-.formulario-campo textarea{
-  width: 300px;
-  justify-self: flex-end;
 
 
-
-}
-#enviar-btn{
-  background-color: khaki;
-  color: darkkhaki;
-  border: #ffffff;
-}
